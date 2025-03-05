@@ -4,8 +4,8 @@
 
 (load-theme 'wombat)
 
-(set-face-attribute 'default nil :font "Fira Code Light" :height 150)
-(display-line-numbers-mode 1)
+(set-face-attribute 'default nil :font "Fira Code Nerd Font Light" :height 140)
+(global-display-line-numbers-mode 1)
 
 (require 'package)
 (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)

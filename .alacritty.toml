@@ -3,6 +3,6 @@ title = ""
 dynamic_title = false
 
 [font]
-normal = { family = "Fira Code", style = "Light" }
+normal = { family = "Fira Code Nerd Font", style = "Light" }
 
 size = 12
